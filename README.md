@@ -1,27 +1,68 @@
-# Minimal Mistakes remote theme starter
+# Simpler – A modern portfolio theme for Jekyll.
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Simpler is a sleek and modern portfolio theme for Jekyll. The theme comes with a variety of features, including support for GitHub Pages, dark mode, social media integration, a built-in contact form, and much more. The theme is fully responsive, meaning it will look great on any device, and it's optimized for SEO, ensuring your work gets the attention it deserves. Whether you're an illustrator, web designer, photographer, or artist, Simpler is the perfect theme to showcase your work online.
 
-Contains basic configuration to get you a site with:
+* * *
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+### Demo
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Check the theme in action [Live Demo](https://simpler-jekyll.netlify.app/) |
+[Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
 
----
+* * *
 
-## Troubleshooting
+### Theme features
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+- Works with GitHub Pages (host it for free)
+- Dark and light mode user can select themself
+- No jQuery, only vanilla JS
+- 100% responsive Design
+- Clean Code
+- Optimized for mobile devices
+- Section Blog
+- Section Works
+- Section Testimonials
+- Super fast performance ⚡⚡⚡
+- Social sharing buttons
+- Scroll to top button
+- Syntax highlighting (supports the Jekyll syntax highlighter)
+- Compatible with modern browsers
+- Medium style image zoom
+- Image Lazy loading
+- Image gallery
+- Custom logo support
+- Supports contact form (Formspree)
+- Supports MailChimp newsletter
+- Supports Disqus comments
+- Supports Google Analytics
+- Free Font Awesome icons
+- Free Google Fonts
+- Free updates & support
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+* * *
+
+### Installation
+
+#### Installing Ruby & Jekyll
+
+If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
+
+* * *
+
+### Deployment
+
+To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
+
+I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+
+* * *
+
+### Documentation
+
+Before using the Simpler theme, please read the attached documentation.
+
+* * *
+
+### Support
+
+<p>If you have any questions or feedback about the theme, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>
