@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Choosing a Focused Life in a Noisy World
+title: Chasing Hunger in a World of Cycles
 description: A journey of resilience, ambition, and finding a place among dreamers—from Peru to Australia, through sprints of determination and seasons of rest.
 date: 2025-01-01 15:01:35 +0300
 image: '/images/04.jpg'
-tags: [study, lifestyle]
+tags: [personal-growth, career, entrepreneurship. sprint, seasons]
 ---
 
 Life, for me, unfolds in cycles—much like seasons. There’s winter, spring, autumn, and those intense bursts I call "sprints." These sprints are when I push myself to the limit, hungry for knowledge and experience, fighting to grow. But they can’t last too long; exhaustion creeps in, and rest becomes essential. This rhythm has marked my journey, from my roots in Peru to my new chapter in Australia.
