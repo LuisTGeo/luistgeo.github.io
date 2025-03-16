@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Simpler
+title: Journey
 logo: "/images/logo.svg" # You can add own logo. For example "/images/logo.svg".
 logo_dark: "/images/logo-dark.svg"
 description: Simpler – A modern portfolio theme for Jekyll.
@@ -37,7 +37,7 @@ menu_settings:
 social:
 - {icon: "fa-brands fa-twitter", link: "https://twitter.com"}
 - {icon: "fa-brands fa-facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-pinterest", link: "https://pinterest.com"}
+- {icon: "fa-brands fa-pinterest", link: "https://au.pinterest.com/luistorreschuquilin/_saved"}
 
 # Example of adding a new link to the header and footer - {icon: "fa-brands fa-youtube", link: "https://youtube.com"}
 # Other icons can be found at https://fontawesome.com/icons
@@ -47,8 +47,8 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero_title: Aaron Simons. Building Digital <span><i>Products & Brands</i></span> # Add the "span" tag to highlight text.
-  hero_description: I’m Aaron, a creative Illustrator & Art Director based in San Francisco. I seek to push the limits of creativity to create high-engaging and memorable interactive experiences.
+  hero_title:  <span><i>Luis Torres</i></span> # Add the "span" tag to highlight text.
+  hero_description: I'm Luis, a software engineer based in Australia. I strive to push our own limits and challenge our beliefs using first-principles thinking
   hero_image: "/images/01.jpg"
   hero_button_contact: Get In Touch
   hero_button_about: About Me
